@@ -1,0 +1,14 @@
+# Core Quantum Computing & Noise Simulation (Dynamical Decoupling)
+qiskit==2.2.3
+qiskit-aer==0.17.2
+qiskit-ibm-runtime==0.43.1
+
+# Scientific Computing & Visualization
+numpy==2.0.2
+scipy==1.13.1
+matplotlib==3.9.4
+pylatexenc==2.11
+
+# Jupyter Notebook Environment
+ipykernel==6.31.0
+jupyter==1.1.1
